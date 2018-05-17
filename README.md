@@ -4,9 +4,9 @@ Leo du Sud alias @LeoD 🍻 / Miguel le Stand Upper 🤣 alias @Jayware / Louis 
 
 * 1) Les Landings pages 💻 </br>
 Cette app contient 3 landings pages :</br> 
-** Une generaliste qui s'apelle cible_ecole_de_commerce logique non voici le lien de prod <a href "https://arcane-crag-44331.herokuapp.com/"> clique </a>
-** Une qui cible les jeunes lycéen tout frais sorti du bac  <a href "https://powerful-plateau-42103.herokuapp.com/"> clique </a>
-** Une qui cible la ville de Montpellier et ses habitants <a href "https://fierce-retreat-28817.herokuapp.com/"> clique </a>
+** Une generaliste qui s'apelle cible_ecole_de_commerce logique non voici le lien de prod "https://arcane-crag-44331.herokuapp.com/
+** Une qui cible les jeunes lycéen tout frais sorti du bac  https://powerful-plateau-42103.herokuapp.com/
+** Une qui cible la ville de Montpellier et ses habitants https://fierce-retreat-28817.herokuapp.com/
 
 * 2) Le mailer 📨</br>
 Le mailer fonctionne avec la gem Mailjet, mais problème pas possibilité de le mettre en prod avec Heroku Scheduler </br>
