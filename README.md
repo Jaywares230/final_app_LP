@@ -12,8 +12,8 @@ Cette app contient 3 landings pages :</br>
 Le mailer fonctionne avec la gem Mailjet, mais problème pas possibilité de le mettre en prod avec Heroku Scheduler </br>
 Car on l'a créer mais il ne s'affiche pas car pas de carte bancaire 💸 </br>
 
-Pourquoi " Je sais pas ça marche pas"  - Louis Elie 22h39 </br>
-Mais " Inch'allah il marche en local " toujours Louis Elie </br>
+## Pourquoi?  "Je sais pas ça marche pas"  - *Louis Elie 22h39* </br>
+## Mais " Inch'allah il marche en local " toujours *Louis Elie* </br>
 Petit bemol le mailer que sur la LP general et pas sur les autres 🤕 </br>
 
 * 3) Opération Marketing 📈</br>
